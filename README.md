@@ -10,7 +10,7 @@ A clean and responsive pricing page created using HTML and CSS, focusing on Flex
 - CSS
 
 ## Demo
-View it live here: [GitHub Pages Link]()
+View it live here: [GitHub Pages Link](https://yuvanganesh.github.io/pricing-website/)
 
 ## How to Use
 1. Clone the repository: https://github.com/YuvanGanesh/pricing-website
